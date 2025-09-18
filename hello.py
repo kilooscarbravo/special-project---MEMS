@@ -1,2 +1,2 @@
-print("AMMMMMMMMMMMMm")
-print("AMMMMMMMMMMMMm")
+print("kokokok")
+
