@@ -1,1 +1,2 @@
 print("AMMMMMMMMMMMMm")
+print("AMMMMMMMMMMMMm")
